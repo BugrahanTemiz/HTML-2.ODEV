@@ -2,7 +2,7 @@
 
 ---
 
-Bu repo [Kodluyoruz](hptts://kodluyoruz.org) Front-End içerisinde ki, HTML eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet index.html dosyaları bulundurmaktadır.
+Bu repo [Kodluyoruz](hptts://kodluyoruz.org) Front-End içerisinde ki, HTML eğitiminde oluşturduğumuz ikinci repo. İçerisinde bir adet README dosyası, bir adet index.html dosyaları bulundurmaktadır.
 
 <h2>License</h2>
 
